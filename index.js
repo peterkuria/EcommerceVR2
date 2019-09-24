@@ -10,7 +10,7 @@ import {
 import { createStore, applyMiddleware } from 'redux';
 import logger from 'redux-logger';
 import { Provider } from 'react-redux';
-import { roomReducer } from './reducers';
+import { roomReducer } from './reducers/reducers'; // reducers
 import ConnectedSelections from './components/selections.js';
 import ConnectedInformation from './components/information.js';
 

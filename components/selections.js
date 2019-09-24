@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, View } from 'react-360';
 import { connect } from 'react-redux';
-import { pickRoom } from '../actions';
+import { pickRoom } from '../actions/actions';
 import styles from './../styles';
 
 const mapStateToProps = state => {

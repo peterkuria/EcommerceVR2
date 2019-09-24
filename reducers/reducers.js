@@ -5,7 +5,8 @@ const startingRoom = {
   info: `
     * 4 bedroom
     * 3 bath
-    * Priced at $180,000`,
+    * Priced at KShs. 10,000,000
+    * Within gated community`,
   adjacentRooms: ['living_room']
 }
 
